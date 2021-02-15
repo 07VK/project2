@@ -7,6 +7,7 @@ int main
 	temp=a;
 	a=b;
 	b=temp;
-	printf("swapped numbers: %d %d.");
+	printf("\t swapped numbers: %d %d.");
+	printf("done!.");
 return 0;
 }
